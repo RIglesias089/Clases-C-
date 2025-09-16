@@ -1,3 +1,2 @@
-# Funcion de este apartado
-En cada repo preparae un apartado en el que pondrer mis clases durante todo el curso de programacion que llevo,
-con la finalidad clara de poder leerlas en dado caso no me ubique en algun tema,la idea sera trabajar en todo.
+# Fundamentos de C++
+En cada carpeta por separado se encuentra cada archivo realizado en las clases de C++, donde se ven las bases respectivas y un examen practico desarrollado en base a estas clases, no se incluyen ni proyecctos ni ejercicios basados en el mismo lenguaje.
